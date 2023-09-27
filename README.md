@@ -3,6 +3,7 @@
 
 <head>
  <meta charset="utf-8" />
+ <title>Main Page</title>
  <link href='http://fonts.googleapis.com/css?family=Devonshire' rel='stylesheet' type='text/css'>
  <link rel="stylesheet" type="text/css" href="css/normalize.css">
  <link rel="stylesheet" type="text/css" href="css/styles.css">
