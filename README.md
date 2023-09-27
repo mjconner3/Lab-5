@@ -3,7 +3,6 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title>Main Page</title>
 	<link href='http://fonts.googleapis.com/css?family=Devonshire' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -47,7 +46,6 @@
           <li>List 4</li>
         </ul>
         <div id="center">
-          <iframe width="400" height="300" src="https://www.youtube.com/embed/-jn9aaNn8_I?si=D1HhLAWQ5awY9BfU frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <aside id="side-content">
